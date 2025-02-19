@@ -1,5 +1,6 @@
 # readme.md
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Wael, and I'm a website developer from Spain.</h2>
+
 
 ###
 
